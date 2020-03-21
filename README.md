@@ -15,7 +15,7 @@
 
 5. 代码里有一段要换成tg机器人的Token。
 
-   ![1584751000584](C:\Users\74049\AppData\Roaming\Typora\typora-user-images\1584751000584.png)
+   ![photo_2020-03-21_08-46-14](C:\Users\74049\OneDrive\tg机器人\photo_2020-03-21_08-46-14.jpg)
 
 6. 确定脚本可以工作（验证方法是部署一次，点最新代码）。
 
